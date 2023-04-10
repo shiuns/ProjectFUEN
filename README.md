@@ -30,3 +30,6 @@
 * 刪除成功
 
 ![](https://github.com/shiuns/ProjectFUEN/blob/master/ProjectFUEN/wwwroot/UploadedFiles/刪除成功.jpg)
+
+
+感謝觀看!
